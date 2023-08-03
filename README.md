@@ -1,4 +1,4 @@
-# ArmouredAndDangerous
+# Armoured & Dangerous
 A mod for Spore: Galactic Adventures (2009)
 
 Armoured & Dangerous adds new parts created from models used in Stellaris, a massive 4X Realtime Strategy Space Explorationa and Management game. The parts are available in all relevant, user-accessible editors.
